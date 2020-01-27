@@ -1,2 +1,2 @@
-# PythonExercises
-Python exercises
+# python-exercises
+Python Exercises from W3Schools
